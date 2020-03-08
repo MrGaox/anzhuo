@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI 标准测量</string>
+    <string name="BodyHeight">身高（米）</string>
+    <string name="BodyWeigh">体重（公斤）</string>
+    <string name="STD_ASIA">亚洲标准</string>
+    <string name="STD_CHN">中国标准</string>
+    <string name="STD_WHO">WHO标准</string>
+</resources>
